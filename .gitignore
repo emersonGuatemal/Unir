@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Archivos de entorno / secretos
+.env
+**/.env
+
+# Salidas de compilación
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
